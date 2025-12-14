@@ -17,12 +17,8 @@
 ### プラグインとしてインストール（推奨）
 
 ```bash
-# リポジトリをクローン
-git clone https://github.com/satorun/claude-plugin.git
-cd claude-plugin
-
 # マーケットプレイスとして登録
-/plugin marketplace add ./
+/plugin marketplace add satorun/claude-plugin
 
 # プラグインをインストール
 /plugin install context-efficiency
