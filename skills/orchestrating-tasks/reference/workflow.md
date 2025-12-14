@@ -114,10 +114,10 @@ Task(タスク2, run_in_background: true)
 
 ```
 # 進捗確認（ノンブロッキング）
-AgentOutputTool(agentId: "<id>", block: false)
+TaskOutput(task_id: "<id>", block: false)
 
 # 結果取得（ブロッキング）
-AgentOutputTool(agentId: "<id>", block: true)
+TaskOutput(task_id: "<id>", block: true)
 ```
 
 ## 5. 結果報告とネクストアクション

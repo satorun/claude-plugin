@@ -34,9 +34,9 @@ Use this skill when:
 7. **ユーザーへの確認**: 改善の実行方針を確認
 
 詳細なワークフローは以下を参照：
-- [詳細ワークフロー](reference/workflow.md)
-- [実例](reference/examples.md)
-- [ベストプラクティスとエラーハンドリング](reference/best-practices.md)
+- [詳細ワークフロー](./reference/workflow.md)
+- [実例](./reference/examples.md)
+- [ベストプラクティスとエラーハンドリング](./reference/best-practices.md)
 
 ## Analysis Focus
 

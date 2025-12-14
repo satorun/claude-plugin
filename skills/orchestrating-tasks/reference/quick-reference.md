@@ -57,7 +57,6 @@ root-cause-analysis ──┘                    │
 
 - `research-web.md` - Web調査用
 - `research-code.md` - コードベース調査用
-- `root-cause-analysis.md` - 原因分析用
 - `implement.md` - 実装用
 - `build.md` - ビルド用
 - `test.md` - テスト用
