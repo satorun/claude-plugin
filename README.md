@@ -14,9 +14,21 @@
 
 ## インストール
 
+### プラグインとしてインストール（推奨）
+
+```bash
+# マーケットプレイスに追加
+/plugin marketplace add satorun/claude-plugin
+
+# プラグインをインストール
+/plugin install context-efficiency@satorun/claude-plugin
+```
+
+### 手動インストール
+
 ```bash
 # リポジトリをクローン
-git clone https://github.com/yourusername/claude-plugin.git
+git clone https://github.com/satorun/claude-plugin.git
 
 # スキルをコピー
 cp -r claude-plugin/skills/* ~/.claude/skills/
@@ -57,9 +69,9 @@ cp claude-plugin/commands/* ~/.claude/commands/
 ### 自動起動
 
 以下のキーワードで`orchestrating-tasks`スキルが自動起動します：
-- 「調べて」「調査して」「実装して」「作って」
-- 「開発して」「ビルドして」「テストして」「レビューして」
-- 「並列で」「同時に」「まとめて」
+- 「調べて」「探して」「調査して」「実装して」「作って」
+- 「ビルドして」「テストして」「レビューして」
+- 承認: 「やって」「進めて」「OK」「いいよ」「実行して」
 
 ## コンテキスト効率化の仕組み
 

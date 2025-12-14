@@ -1,0 +1,10 @@
+{
+  "name": "context-efficiency",
+  "version": "0.0.1",
+  "description": "サブエージェント活用によるコンテキスト効率化プラグイン",
+  "author": {
+    "name": "satorun"
+  },
+  "repository": "https://github.com/satorun/claude-plugin",
+  "license": "MIT"
+}
