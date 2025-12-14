@@ -206,7 +206,7 @@ AgentOutputTool(agentId: "<id>", block: true)
 ## タスクタイプ別プロンプト
 
 **building-task-prompts Skill** を使用してプロンプトを生成する。
-詳細なテンプレートは `reference/subagent-prompts.md` も参照可能。
+詳細なテンプレートは `building-task-prompts/templates/` を参照。
 
 ### クイックリファレンス
 
