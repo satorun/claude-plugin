@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "context-efficiency",
-      "source": ".",
+      "source": "./",
       "description": "サブエージェント活用によるコンテキスト効率化プラグイン"
     }
   ]

@@ -17,11 +17,15 @@
 ### プラグインとしてインストール（推奨）
 
 ```bash
-# マーケットプレイスに追加
-/plugin marketplace add satorun/claude-plugin
+# リポジトリをクローン
+git clone https://github.com/satorun/claude-plugin.git
+cd claude-plugin
+
+# マーケットプレイスとして登録
+/plugin marketplace add ./
 
 # プラグインをインストール
-/plugin install context-efficiency@claude-plugin
+/plugin install context-efficiency
 ```
 
 ### 手動インストール
@@ -29,12 +33,13 @@
 ```bash
 # リポジトリをクローン
 git clone https://github.com/satorun/claude-plugin.git
+cd claude-plugin
 
 # スキルをコピー
-cp -r claude-plugin/skills/* ~/.claude/skills/
+cp -r skills/* ~/.claude/skills/
 
 # コマンドをコピー
-cp claude-plugin/commands/* ~/.claude/commands/
+cp -r commands/* ~/.claude/commands/
 ```
 
 ## コンポーネント
