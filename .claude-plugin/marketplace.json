@@ -1,0 +1,13 @@
+{
+  "name": "claude-plugin",
+  "owner": {
+    "name": "satorun"
+  },
+  "plugins": [
+    {
+      "name": "context-efficiency",
+      "source": ".",
+      "description": "サブエージェント活用によるコンテキスト効率化プラグイン"
+    }
+  ]
+}

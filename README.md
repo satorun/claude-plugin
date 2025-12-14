@@ -21,7 +21,7 @@
 /plugin marketplace add satorun/claude-plugin
 
 # プラグインをインストール
-/plugin install context-efficiency@satorun/claude-plugin
+/plugin install context-efficiency@claude-plugin
 ```
 
 ### 手動インストール
