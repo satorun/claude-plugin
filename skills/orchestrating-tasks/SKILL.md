@@ -93,8 +93,6 @@ allowed-tools:
 ## 関連スキル
 
 - **building-task-prompts**: サブエージェント用プロンプト生成（本スキルから利用）
-- **task-driven-development**: チェックポイント付きの仕様駆動実装
-- **spec-workflow-orchestrator**: 完全な仕様駆動ワークフロー管理
 
 ## 参照ドキュメント
 
