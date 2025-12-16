@@ -1,6 +1,6 @@
 {
   "name": "context-efficiency",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "サブエージェント活用によるコンテキスト効率化プラグイン",
   "author": {
     "name": "satorun"
