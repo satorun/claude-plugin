@@ -4,6 +4,7 @@ description: セッションを振り返り、スキルの使用状況・改善�
 allowed-tools:
   - Read
   - Write
+  - Edit
   - Glob
   - Grep
 ---

@@ -7,6 +7,7 @@ allowed-tools:
   - TodoWrite
   - Read
   - Write
+  - Edit
   - Bash(date:*)
   - Bash(mkdir:*)
   - Skill
