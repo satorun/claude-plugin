@@ -1,16 +1,6 @@
 ---
 name: orchestrating-tasks
 description: 作業指示（調べて/探して/実装して/ビルドして/テストして/レビューして）や承認（やって/進めて/OK）でサブエージェントに委譲。コンテキスト効率化。
-allowed-tools:
-  - Task
-  - TaskOutput
-  - TodoWrite
-  - Read
-  - Write
-  - Edit
-  - Bash(date:*)
-  - Bash(mkdir:*)
-  - Skill
 ---
 
 # 作業のオーケストレーション

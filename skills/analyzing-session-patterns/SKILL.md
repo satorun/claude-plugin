@@ -1,12 +1,6 @@
 ---
 name: analyzing-session-patterns
 description: セッションを振り返り、スキルの使用状況・改善点・並列化の効率を分析する。「このセッションを振り返って」「振り返りをして」「セッションを分析して」「改善点ある？」と言われたときに使用。
-allowed-tools:
-  - Read
-  - Write
-  - Edit
-  - Glob
-  - Grep
 ---
 
 # Analyzing Session Patterns
